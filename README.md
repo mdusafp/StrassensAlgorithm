@@ -1,0 +1,1 @@
+# The Strassen's algorithm of multiplication matrix by mfp
